@@ -4,7 +4,8 @@ In my portfolio, you'll find a snapshot of my coding journey through a collectio
 Live Link - https://arvind-portfolio1.netlify.app/
 
 # Homepage
-![Portfolio](https://github.com/prabhjotschugh/Portfolio/assets/64200536/ad0aec5c-5e59-410b-b650-313e15b200d3)
+![Portfolio Image](https://github.com/arvindk2025/Portfolio/blob/main/css/Portfolio.png)
+
 
 
 
